@@ -64,7 +64,7 @@ Comment out line 354 in ``hw_escpos/controllers/main.py``
 
 .. code-block:: shell
 
-   nano /home/pi/odoo/addons/hw_escpos/controllets/main.py
+   nano /home/pi/odoo/addons/hw_escpos/controllers/main.py
 
 i.e. replace ``driver.push_task('printstatus')`` with
 
